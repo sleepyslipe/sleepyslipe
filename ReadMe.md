@@ -7,6 +7,10 @@
 
 :infinity: [август 2023 - сентябрь 2024 работа в Starter](https://starterapp.ru/)
 
+:mortar_board: СПбГПУ (Политех) бакалавриат, НИУ ИТМО магистратура "Информатика и вычислительная техника"
+
+
+
 :bug: python, C++
 
 :snake: pandas, numpy, matplotlib, plotly
